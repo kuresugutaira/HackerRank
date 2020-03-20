@@ -1,0 +1,7 @@
+C:\Users\snake\Source\Repos\kuresugutaira\HackerRank\OyamaC\4^\bin\Debug\4.exe.config
+C:\Users\snake\Source\Repos\kuresugutaira\HackerRank\OyamaC\4^\bin\Debug\4.exe
+C:\Users\snake\Source\Repos\kuresugutaira\HackerRank\OyamaC\4^\bin\Debug\4.pdb
+C:\Users\snake\Source\Repos\kuresugutaira\HackerRank\OyamaC\4^\obj\Debug\4.csprojAssemblyReference.cache
+C:\Users\snake\Source\Repos\kuresugutaira\HackerRank\OyamaC\4^\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\Users\snake\Source\Repos\kuresugutaira\HackerRank\OyamaC\4^\obj\Debug\4.exe
+C:\Users\snake\Source\Repos\kuresugutaira\HackerRank\OyamaC\4^\obj\Debug\4.pdb
